@@ -1,0 +1,10 @@
+.radioBtn, .checkboxBtn, .textBtn {
+	margin-top: 5px;
+	width: 80px;
+}
+.radioBtn {
+	margin-left: -20px;
+}
+.checkboxBtn, .textBtn {
+	margin-left: 20px;
+}
